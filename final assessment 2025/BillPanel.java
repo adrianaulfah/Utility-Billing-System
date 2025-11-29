@@ -450,4 +450,5 @@ public class BillPanel extends JPanel {
                 0, 0, getWidth(), getHeight(), this);
         }
     }
+
 }
